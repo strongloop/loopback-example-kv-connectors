@@ -1,7 +1,3 @@
-**PLEASE CREATE ISSUES AT <https://github.com/strongloop/loopback/issues>**
-
----
-
 # loopback-example-kv-connectors
 
 KeyValue connector examples.
