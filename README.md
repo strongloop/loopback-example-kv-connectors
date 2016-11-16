@@ -59,6 +59,8 @@ LoopBack|Connector
 :-:|:--
 2.x|[KeyValue-memory](kv-memory-lb2x/test)
 2.x|[Redis](redis-lb2x/test)
+3.x|[KeyValue-memory](kv-memory-lb3x/test)
+3.x|[Redis](redis-lb3x/test)
 
 ---
 
