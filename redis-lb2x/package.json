@@ -33,6 +33,9 @@
     "type": "",
     "url": ""
   },
+  "bugs": {
+    "url": "https://github.com/strongloop/loopback-example-kv-connectors/issues"
+  },
   "license": "UNLICENSED",
   "description": "redis-lb2x"
 }
