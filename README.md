@@ -7,13 +7,13 @@ KeyValue connector examples.
 
 ## Examples list
 
-- IBM WebSphere eXtreme Scale with
+- IBM WebSphere eXtreme Scale with:
   - [LoopBack 2.x](extreme-scale.lb2x/test)
   - [LoopBack 3.x](extreme-scale.lb3x/test)
-- KeyValue-memory with
+- KeyValue-memory with:
   - [LoopBack 2.x](kv-memory.lb2x/test)
   - [LoopBack 3.x](kv-memory.lb3x/test)
-- Redis with
+- Redis with:
   - [LoopBack 2.x](redis.lb2x/test)
   - [LoopBack 3.x](redis.lb3x/test)
 
