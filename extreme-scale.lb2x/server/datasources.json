@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "xs": {
+    "url": "https://username:password!@localhost:9444/wxsdata/v1/grids/your-grid-name",
+    "name": "xs",
+    "strictSSL": false,
+    "connector": "kv-extreme-scale"
+  }
+}
