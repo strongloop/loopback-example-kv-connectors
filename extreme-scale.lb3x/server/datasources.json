@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "xs": {
+    "url": "https://xsadmin:xsadmin4Me!@192.168.99.100:9444/wxsdata/v1/grids/testgrid",
+    "name": "xs",
+    "strictSSL": false,
+    "connector": "kv-extreme-scale"
+  }
+}
