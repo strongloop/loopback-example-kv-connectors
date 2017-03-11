@@ -1,5 +1,5 @@
 {
-  "name": "redis-lb3x",
+  "name": "extreme-scale-lb3x",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
