@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "xs": {
-    "url": "https://xsadmin:xsadmin4Me!@192.168.99.100:9444/wxsdata/v1/grids/testgrid",
+    "url": "https://user:host@localhost:9444/wxsdata/v1/grids/your-grid-name",
     "name": "xs",
     "strictSSL": false,
     "connector": "kv-extreme-scale"
